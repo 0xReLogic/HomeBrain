@@ -1,6 +1,12 @@
 # HomeBrain
 
-Prolog-based rule engine for a simulated smart home. The system models devices, sensors, and global facts as a dynamic state, evaluates rules over that state, prints decisions, and applies actions. An interactive loop is provided for manual simulation and testing.
+[![License](https://img.shields.io/github/license/0xReLogic/HomeBrain)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/0xReLogic/HomeBrain)](https://github.com/0xReLogic/HomeBrain/commits)
+[![Issues](https://img.shields.io/github/issues/0xReLogic/HomeBrain)](https://github.com/0xReLogic/HomeBrain/issues)
+[![Stars](https://img.shields.io/github/stars/0xReLogic/HomeBrain)](https://github.com/0xReLogic/HomeBrain/stargazers)
+[![SWI‑Prolog](https://img.shields.io/badge/Prolog-SWI%E2%80%91Prolog-blue)](https://www.swi-prolog.org)
+
+HomeBrain is a Prolog-based rule engine and simulator for smart-home automation. It models devices, sensors, and global facts as a dynamic state, evaluates rules, prints decisions, and applies actions. Includes an interactive loop for hands-on simulation.
 
 ## Features
 
