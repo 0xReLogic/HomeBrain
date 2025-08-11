@@ -1,0 +1,26 @@
+# SWI-Prolog / Prolog build artifacts
+*.qlf
+*.qof
+*.xwam
+*.o
+*.so
+*.dll
+*.dylib
+
+# Local state and logs
+current_state.pl
+logs/
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/config
+.env
+todo.txt
